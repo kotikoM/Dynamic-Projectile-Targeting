@@ -10,8 +10,6 @@ forces such as **gravity** and **drag**. The governing equations are formulated 
 For a more detailed explanation, visit my documentation:
 📚 [Dynamic Projectile Targeting Docs](https://komachavariani.notion.site/Dynamic-Projectile-Targeting-Docs-1a317eee0cbb80e1ad42cbe573a3c82f)
 
----
-
 ### 🧮 Governing Equations
 ```math
 \frac{dx}{dt} = v_x,
@@ -57,16 +55,12 @@ For a more detailed explanation, visit my documentation:
 - **Interceptions Visualization:** ![Predicted and Shooter Path](results/interception/predicted%20and%20shooter%20path.png)
 - **Interceptions Animation:** [YouTube Video](https://www.youtube.com/watch?v=-qYOM2z-txw) ✨
 
----
-
 ## ⚙️ Installation & Usage
 
 ### 📜 Prerequisites
 
 - Python 3.x
 - Required libraries: NumPy, OpenCV, Matplotlib
-
----
 
 ## License
 
