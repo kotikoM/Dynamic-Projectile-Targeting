@@ -37,20 +37,9 @@ For a more detailed explanation, visit my documentation:
 - Topped with **visualizations & animations**!✨
 
 #### Example:
-- **Animation Demonstration:** [YouTube Video](https://www.youtube.com/watch?v=Uh1eYqLn54Y)
-- <div>
-    <table>
-      <tr>
-        <th>Input Image</th>
-        <th>Computed Trajectories</th>
-      </tr>
-      <tr>
-        <td><img src="images/colorful_balls.jpg" height="400"></td>
-        <td><img src="results/colorful%20balls/Target%20Projectiles.png" height="400"></td>
-      </tr>
-    </table>
-  </div>
-
+- **Input Image:** ![colorful_balls.jpg](images/colorful_balls.jpg)
+- **Computed Static Trajectories:** ![Target Projectiles.png](results/colorful%20balls/Target%20Projectiles.png)
+- **Animation Demonstration:** [YouTube Video](https://www.youtube.com/watch?v=Uh1eYqLn54Y) ✨
   
 ### 🚀 2. Intercepting a Moving Target
 
@@ -60,20 +49,8 @@ For a more detailed explanation, visit my documentation:
 
 #### Example:
 - **Input Video:** [YouTube Video](https://www.youtube.com/watch?v=1OYyFiDLVnA)
-- <div>
-    <table>
-      <tr>
-        <th>Real Path vs. Prediction</th>
-        <th>Interceptions Visualization</th>
-      </tr>
-      <tr>
-        <td><img src="results/interception/data%20vs%20prediction.png" height="400"></td>
-        <td><img src="results/interception/predicted%20and%20shooter%20path.png" height="400"></td>
-      </tr>
-    </table>
-  </div>
-
- 
+- **Real Path vs. Prediction:** ![data vs prediction.png](results/interception/data%20vs%20prediction.png)
+- **Interceptions Visualization:** ![Predicted and Shooter Path](results/interception/predicted%20and%20shooter%20path.png)
 - **Interceptions Animation:** [YouTube Video](https://www.youtube.com/watch?v=-qYOM2z-txw) ✨
 
 ## ⚙️ Installation & Usage
