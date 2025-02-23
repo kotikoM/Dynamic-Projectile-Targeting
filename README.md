@@ -27,8 +27,6 @@ For a more detailed explanation, visit my documentation:
 \frac{dv_y}{dt} = -g - \frac{k}{m} v_y \sqrt{v_x^2 + v_y^2}.
 ```
 
----
-
 ## 🔥 Project Components
 
 ### 🎯 1. Shooting Static Targets
